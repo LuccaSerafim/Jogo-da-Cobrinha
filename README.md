@@ -1,1 +1,1 @@
-# Jogo-da-Cobrinha
+Apenas um jogo da cobrinha feita em C.
